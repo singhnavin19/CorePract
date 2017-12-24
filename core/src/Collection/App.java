@@ -10,7 +10,6 @@ public class App {
 
 		Properties prop = new Properties();
 		InputStream input = null;
-		String s = "navin";
 
 		try {
 
