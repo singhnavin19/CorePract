@@ -9,6 +9,7 @@ public class Amit {
 		int j = i++;
 		System.out.println(++i);
 		System.out.println(j);
+		System.out.println("Amit");
 
 	}
 
