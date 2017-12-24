@@ -10,6 +10,7 @@ public class Amit {
 		System.out.println(++i);
 		System.out.println(j);
 		System.out.println("Amit");
+		System.out.println("");
 
 	}
 
